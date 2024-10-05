@@ -6,7 +6,7 @@
 - [NextUI v2](https://nextui.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Starknet]()
+- [Starknet](https://book.starknet.io/ch00-00-introduction.html)
 - [Cairo]()
 ## How to Use
 
