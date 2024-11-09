@@ -19,8 +19,8 @@ export default function RootLayout({
     <html lang="en">
       <body>
         <WalletProvider>
-        <NavBar />
-        {children}
+          <NavBar />
+          {children}
         </WalletProvider>
       </body>
     </html>

@@ -47,6 +47,7 @@ export const WalletProvider = ({ children }: { children: ReactNode }) => {
                 setConnection(wallet);
                 setAddress(connectorData.account as string);
                 setIsLoggedIn(true);
+                console.log("CONNECTED", connectorData, wallet);
             }
         } catch (error) {
             console.error("LOGIN ERROR", error);            
